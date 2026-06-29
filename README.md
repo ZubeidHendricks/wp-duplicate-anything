@@ -1,5 +1,7 @@
 # Duplicate Anything
 
+🌐 **[Browse all plugins](https://zubeidhendricks.github.io/wp-plugins-site/)** · ⬇️ **[Download .zip](https://github.com/ZubeidHendricks/wp-duplicate-anything/releases/latest/download/duplicate-anything.zip)**
+
 One-click duplicate any post, page or custom post type as a draft — title,
 content, taxonomies and custom fields included. Part of the
 [Zub Plugin Factory](https://github.com/ZubeidHendricks/wp-plugin-factory).
